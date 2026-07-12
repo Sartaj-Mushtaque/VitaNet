@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Android build files
+.gradle/
+/build/
+
+# Local config
+local.properties
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+
+backend/config/firebaseServiceAccount.json.json
